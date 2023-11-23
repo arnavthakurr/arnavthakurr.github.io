@@ -82,7 +82,7 @@ section{
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('/newbg.png') no-repeat;
+    background: url('newbg.png') no-repeat;
     background-size: 45%;
     background-position: center right;
     background-blend-mode: normal;
